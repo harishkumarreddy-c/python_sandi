@@ -40,7 +40,7 @@ variable1 = 40
 * **UPPER_SNAKE_CASE**: Used for constants in many languages, where words are uppercase and separated by underscores (e.g., `MY_CONSTANT`).
 * **lowercase**: Used in some languages for variables and functions, where all letters are lowercase (e.g., `myvariable`).
 * **\_privateVariable**: Used to indicate that a variable is intended for internal use within a class or module (e.g., `_privateVariable`).
-* \***\*magicVariable\*\***: Used in Python for special variables that have a specific meaning (e.g., `__init__`, `__str__`, `__main__`).
+* **magicNames**: Used in Python for special variables that have a specific meaning (e.g., `__init__`, `__str__`, `__main__`).
 
 ---
 
