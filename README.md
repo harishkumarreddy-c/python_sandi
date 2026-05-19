@@ -16,8 +16,11 @@ This workspace contains a set of Python learning resources, grouped by documenta
 ## Notebooks
 
 - [my.ipynb](my.ipynb) - interactive notebook with exercises
-- [operators.ipynb](operators.ipynb) - notebook covering Python operators
 - [varaiables.ipynb](varaiables.ipynb) - additional notebook on variables
+- [operators.ipynb](operators.ipynb) - notebook covering Python operators
+- [string_metoads.ipynb](string_metoads.ipynb) - notebook on Python string methods
+- [Lists.ipynb](Lists.ipynb) - notebook on Python lists
+- [dictnary.ipynb](dictnary.ipynb) - notebook on Python dictionaries
 
 ## Other Files
 
