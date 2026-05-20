@@ -21,10 +21,13 @@ This workspace contains a set of Python learning resources, grouped by documenta
 - [string_metoads.ipynb](string_metoads.ipynb) - notebook on Python string methods
 - [Lists.ipynb](Lists.ipynb) - notebook on Python lists
 - [dictnary.ipynb](dictnary.ipynb) - notebook on Python dictionaries
+- [sets.ipynb](sets.ipynb) - notebook on Python sets
+- [tupule.ipynb](tupule.ipynb) - notebook on Python tuples
 
 ## Other Files
 
 - [requirments.txt](requirments.txt) - project dependencies (if any)
+- [package-lock.json](package-lock.json) - npm dependency lockfile
 - [.gitignore](.gitignore) - files and directories to be ignored by Git
 
 ## Getting Started
