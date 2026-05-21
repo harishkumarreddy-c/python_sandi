@@ -1,0 +1,28 @@
+﻿Guideline Name,revision,version,product,subsetCid
+Spinal Cord Stimulator (SCS) Insertion,R000,RM25,PROCEDURES,ISP7538
+"Arthroscopy, Surgical, Hip",R000,RM25,PROCEDURES,ISP6712
+"Joint Replacement, Shoulder",R000,RM25,PROCEDURES,ISP6749
+"Arthrotomy, Knee",R000,RM25,PROCEDURES,ISP6718
+"Decompression +/- Fusion, Lumbar",R000,RM25,PROCEDURES,~IQ6.01A_19255
+"Decompression +/- Fusion, Thoracic",R000,RM25,PROCEDURES,~IQ6.01A_19282
+"Decompression +/- Fusion, Cervical",R000,RM25,PROCEDURES,~IQ6.01A_19281
+"Fusion, Cervical Spine",,RM25,PROCEDURES,f2528632-c0dd-4f9b-9d32-181f68977f72
+"Fusion, Lumbar Spine",R000,RM25,PROCEDURES,~IQ6.01A_7296
+"Fusion, Thoracic Spine",R000,RM25,PROCEDURES,~IQ6.01A_7297
+"Arthrotomy, Shoulder",R000,RM25,PROCEDURES,ISP6719
+"Arthroscopy or Arthroscopically Assisted Surgery, Shoulder",R000,RM25,PROCEDURES,~IQ6.01A_19596
+"Arthroscopy or Arthroscopically Assisted Surgery, Knee",R000,RM25,PROCEDURES,~IQ6.01A_19145
+"Neuroablation, Percutaneous",R002,RM25,PROCEDURES,ISP7533
+Sacroiliac Joint Injection,R000,RM25,PROCEDURES,ISP7725
+"Total Joint Replacement (TJR), Hip",R001,RM25,PROCEDURES,~IQ6.01A_7997
+"Total Joint Replacement (TJR), Knee",R000,RM25,PROCEDURES,ISP6748
+Facet Joint Injection,R000,RM25,PROCEDURES,ISP7703
+Epidural or Intrathecal Catheter Placement,R001,RM25,PROCEDURES,ISP7525
+Epidural Steroid Injection,R000,RM25,PROCEDURES,ISP7526
+Epidural Steroid Injections for Pain Management NGS,R001,RM25,MDCR-PROCEDURES,MDCDET~IQ6.01A_21284
+Total Joint Arthroplasty NGS,R001,RM25,MDCR-PROCEDURES,MDCDET~IQ6.01A_20368
+Facet Joint Interventions for Pain Management NGS,R001,RM25,MDCR-PROCEDURES,MDCDET~IQ6.01A_39346
+Sacroiliac Injections and Procedures NGS,R001,RM25,MDCR-PROCEDURES,MDCDET~IQ6.01A_47053
+"Percutaneous Vertebral Augmentation (PVA) for Osteoporotic Vertebral Compression Fracture (VCF) (L33569)",R000,RM25,MDCR-PROCEDURES,MDCDET~IQ6.01A_20993
+Arthroscopic Lavage and Arthroscopic Debridement for the Osteoarthritic Knee NCD,R001,RM25,MDCR-PROCEDURES,MDCDET~IQ6.01A_23924
+Cervical Fusion NGS,R001,RM25,MDCR-PROCEDURES,~IQ6.01A_60007
