@@ -8,6 +8,7 @@ This workspace contains a set of Python learning resources, grouped by documenta
 - [Syntax](syntax.md) - Python syntax rules and usage patterns
 - [Variables](Variables.md) - variable declaration, naming, and data types
 - [Opperatoes](opperatoes.md) - additional Markdown content on operators or related topics
+- [Conditionalflows](Conditionalflows) - Conditional Flow programing with Conditions and loops.
 
 ## Python Scripts
 
@@ -23,6 +24,7 @@ This workspace contains a set of Python learning resources, grouped by documenta
 - [dictnary.ipynb](dictnary.ipynb) - notebook on Python dictionaries
 - [sets.ipynb](sets.ipynb) - notebook on Python sets
 - [tupule.ipynb](tupule.ipynb) - notebook on Python tuples
+- [conditionalFlows.ipynb](conditionalFlows.ipynb) - notebook on Python Conditional flows
 
 ## Other Files
 
