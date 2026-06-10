@@ -3,7 +3,7 @@
 3. Control Structures (if, else, switch)
 4. Loops (for, while, do-while)
 5. Functions and Methods
-6. Object-Oriented Programming (classes, objects, inheritance)
+6. Object-Oriented Programming (classes, objects, inheritance, polymorphism,encapsulation,abstraction)
 7. Exception Handling (try, catch, finally)
 8. Input and Output (console, file handling)
 9. DSA - Data Structures and Algorithms (arrays, linked lists, stacks, queues, sorting algorithms)
