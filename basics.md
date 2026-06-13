@@ -4,6 +4,12 @@
 4. Loops (for, while, do-while)
 5. Functions and Methods
 6. Object-Oriented Programming (classes, objects, inheritance, polymorphism,encapsulation,abstraction)
+   a. Interface
+   b. Implementation
+
+   a. concerate class
+   b. abstract class
+
 7. Exception Handling (try, catch, finally)
 8. Input and Output (console, file handling)
 9. DSA - Data Structures and Algorithms (arrays, linked lists, stacks, queues, sorting algorithms)
@@ -16,3 +22,17 @@
 16. Security (common vulnerabilities, secure coding practices)
 17. Scalability (design patterns, microservices architecture)
 18. Keep up-to-date with the latest trends and technologies in programming.
+
+---
+
+## Coverd under point 6:
+
+- SOLID Principles
+  -- S - Single Responsibility Principle
+  -- O - Open-Closed Principle
+  -- L - Liskov Substitution Principle
+  -- I - Interface Segregation Principle
+  -- D - Dependency Inversion Principle
+
+- DRY Patron - Donot Repeat Yourself
+- Factory patron (near to clear)
